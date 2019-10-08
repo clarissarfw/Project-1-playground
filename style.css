@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://i.imgur.com/cdnzkLk.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+header h1 {
+	padding: 30px 0 10px;
+ 
+  font-family: quake-std, sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 100px;
+color:white
+
+}
+header h2 { 
+  font-family: neue-haas-unica, sans-serif;
+
+font-weight: 400;
+
+ text-align: center;
+padding: 30px;
+font-style: normal;
+font-size: 30px;
+
+    
+    }
+
+
+a:link {
+  color: white;}
+a:visited {
+  color: white;}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color:#b9b5e5;
+}
+
+a:active {
+  text-decoration: none;
+}
